@@ -16,3 +16,4 @@ Here are the screenshots of different pages of the application.
 ![part2](https://github.com/TulasiKat/HealthcareApp-Kratin-by-Tulasi/assets/120040505/f4de7c01-17e3-4700-aeec-3af8a5373fc0)
 ![part3](https://github.com/TulasiKat/HealthcareApp-Kratin-by-Tulasi/assets/120040505/170dbed2-9020-4f5a-8137-de642480dd70)
 ![part4](https://github.com/TulasiKat/HealthcareApp-Kratin-by-Tulasi/assets/120040505/2ece2589-48e0-4f5c-ba9e-f9bfb5bff697)
+![part5](https://github.com/TulasiKat/HealthcareApp-Kratin-by-Tulasi/assets/120040505/ac51a733-cb9b-4021-b87c-04316b065352)
