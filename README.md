@@ -9,6 +9,8 @@ We can also add some more features like storing the bp-level and sugar-level val
 We can add a feature like daily tips. in this, everyday when the user logs in, she/he will be able to see a health tip. (each tip each day by top doctors).
 
 direct link to view application: https://tulkratin.ccbp.tech/
+
+
 Here are the screenshots of different pages of the application.
 ![part1](https://github.com/TulasiKat/HealthcareApp-Kratin-by-Tulasi/assets/120040505/a3092ac8-5964-48d9-97c2-63a7770fe92d)
 ![part2](https://github.com/TulasiKat/HealthcareApp-Kratin-by-Tulasi/assets/120040505/f4de7c01-17e3-4700-aeec-3af8a5373fc0)
